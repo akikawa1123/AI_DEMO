@@ -1,0 +1,6 @@
+azure-cognitiveservices-speech
+requests
+azure.core
+azure.ai.textanalytics
+openai
+dotenv
