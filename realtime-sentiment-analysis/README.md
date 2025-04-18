@@ -12,7 +12,7 @@ https://learn.microsoft.com/ja-jp/azure/ai-services/multi-service-resource?pivot
 
 
 2. .env ファイルの作成
-.env.example を参考に作成環境の情報に編集 
+.env.example を参考に、作成した環境の情報に更新し、.env ファイルを作成
 
 ```
 # Azure Speech-to-Text の設定
